@@ -5,7 +5,7 @@ function muestraInformaciónContacto() {
         //console.log; imrpimira (Paula, Smith, Calle Principalm 1234, St. Louis, MO, 12345)
 
        //variable                                Values
- //var auntContectInfo        Paula, Smith, Calle Principal 1234,  St. Louis, MO, 12345
+ //var auntContectInfo        [Paula, Smith, Calle Principal 1234,  St. Louis, MO, 12345]
 
 
 
@@ -18,7 +18,7 @@ function muestraListaDeCompras() {
         //console.log; mostrara (brocóli, helado, croqueta de papa)
 
     //     Varieble                     Values
-//      var produce                manzana,naranjas
+//      var produce                [manzana,naranjas]
 //      var frozen                 [brócoli, helado]  >   [brócoli, helado, croqueta de papa]
 
 var movieLibrary = ["Bambi", "E.T.", "Toy Story"];
@@ -28,4 +28,4 @@ console.log(movieLibrary);
         //console.log; mostrara (Bambi, Beetlejuice, "Toy Story", Zoro)
 
   //      Variable                     Values
-//    var movieLibrary         Bambi, E.T, Toy Story  >  Bambi, E.T, Toy Story, Zoro  >  Bambi, Beetlejuice, Toy Story, Zoro
+//    var movieLibrary         [Bambi, E.T, Toy Story]  >  [Bambi, E.T, Toy Story, Zoro]  >  [Bambi, Beetlejuice, Toy Story, Zoro]
