@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "..\\.vscode"
+		},
+		{
+			"name": "HTML",
+			"path": "..\\HTML"
+		},
+		{
+			"name": "PRE-BOOTCAMP-publico-",
+			"path": "..\\PRE-BOOTCAMP-publico-"
+		},
+		{
+			"name": "PRE-BOOTCAMP-publico--1",
+			"path": "..\\PRE-BOOTCAMP-publico--1"
+		},
+		{
+			"name": "PRE-BOOTCAMP-publico--2",
+			"path": "..\\PRE-BOOTCAMP-publico--2"
+		},
+		{
+			"name": "Predecir codigo 2",
+			"path": "..\\Predecir codigo 2"
+		},
+		{
+			"name": "Pueba1",
+			"path": "..\\Pueba1"
+		},
+		{
+			"name": "Pre-bootcam",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
