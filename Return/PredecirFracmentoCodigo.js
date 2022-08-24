@@ -101,4 +101,29 @@ function sumNums(num1, num2) {
 var result = sumNums(2,3) + sumNums(3,5);
 console.log('result is', result);
 
-//console.log imprimira [5.8, ]
+//console.log imprimira (sum is 13) 
+// console.log imprimira (result is 5,8)
+
+// variable              values
+// sum                    5,8 = 13
+// result                (2,3) (3,5) 
+
+
+function sumNums(num1, num2) {
+    var sum = num1 + num2;
+    console.log('sum is', sum);
+    return sum;
+}
+
+var result = sumNums(2,3)
+
+
+var result = sumNums(2,3) + sumNums(3,sumNums(2,1)) + sumNums(sumNums(2,1),sumNums(2,3));
+console.log('result is', result);
+
+// console.log imprimira (sum is 5)
+// console.log imprimira (result is 19)
+
+// variable         values
+//  sum               5
+//  result            19
