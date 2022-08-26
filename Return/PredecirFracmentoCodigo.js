@@ -14,7 +14,8 @@ function hello() {
 var result = hello();
 console.log('result is', result);
 
-// console.log imprimira [hello, result is 15 ]
+// console.log imprimira [hello] [
+// console.log imprimira [result is 15 ]
 
 //    Variables       Values
 //     result           15
